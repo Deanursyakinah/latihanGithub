@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ACER\\Documents\\NetBeansProjects\\PBO\\lib\\jdatepicker-1.3.4.jar",
+        "c:\\Users\\ACER\\Documents\\NetBeansProjects\\PBO\\lib\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ]
+}
